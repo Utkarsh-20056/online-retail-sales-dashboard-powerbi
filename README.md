@@ -91,3 +91,11 @@ The dataset contains:
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
+
+  ## How to Open the Project
+
+1. Download the `Online_Retail_Sales_Dashboard.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Explore the dashboard using the slicers and filters.
+
+> **Note:** Microsoft Power BI Desktop is required to open the `.pbix` file.
